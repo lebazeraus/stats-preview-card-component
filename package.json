@@ -1,13 +1,13 @@
 {
   "name": "stats-preview-card-component",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "private": true,
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
     "start": "nuxt start",
     "generate": "nuxt generate",
-    "deploy": "nuxt generate && push-dir --dir=dist --branch=gh-pages --cleanup"
+    "deploy": "git merge dev && nuxt generate && push-dir --dir=dist --branch=gh-pages --cleanup"
   },
   "dependencies": {
     "@nuxtjs/composition-api": "^0.24.5",

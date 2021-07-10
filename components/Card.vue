@@ -47,7 +47,7 @@ export default {
 .root__cover {
   background-blend-mode: multiply;
   background-color: var(--accent-color);
-  background-image: url(/images/image-header-mobile.jpg);
+  background-image: url(/stats-preview-card-component/images/image-header-mobile.jpg);
   background-position-x: right;
   background-position-y: top;
   background-repeat: no-repeat;
