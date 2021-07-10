@@ -1,0 +1,25 @@
+:root {
+  --primary-color: hsl(233, 49%, 7%);
+  --secondary-color: hsl(244, 38%, 16%);
+  --accent-color: hsl(277, 64%, 61%);
+  --black: #090b1a;
+  --white: #ffffff;
+  --gray: hsla(0, 0%, 100%, 0.6);
+  --graylight: hsla(0, 0%, 100%, 0.75);
+  --red: #eb1c1c;
+  --green: #2deb1c;
+  --blue: #1c64eb;
+  --yellow: #ebe81c;
+
+  --primary-color-rgb: 9, 11, 27;
+  --secondary-color-rgb: 27, 25, 56;
+  --accent-color-rgb: 170, 92, 219;
+  --black-rgb: 9, 11, 26;
+  --white-rgb: 255, 255, 255;
+  --gray-rgb: 255, 255, 255, 0.6;
+  --graylight-rgb: 255, 255, 255, 0.75;
+  --red-rgb: 235, 28, 28;
+  --green-rgb: 45, 235, 28;
+  --blue-rgb: 28, 100, 235;
+  --yellow-rgb: 235, 232, 28;
+}
